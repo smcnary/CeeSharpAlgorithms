@@ -1,0 +1,5 @@
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\NetFxLinkedList\bin\Debug\NetFxLinkedList.exe
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\NetFxLinkedList\bin\Debug\NetFxLinkedList.pdb
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\NetFxLinkedList\obj\x86\Debug\NetFxLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\NetFxLinkedList\obj\x86\Debug\NetFxLinkedList.exe
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\NetFxLinkedList\obj\x86\Debug\NetFxLinkedList.pdb

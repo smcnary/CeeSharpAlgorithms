@@ -1,0 +1,5 @@
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\NodeChains\bin\Debug\NodeChains.exe
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\NodeChains\bin\Debug\NodeChains.pdb
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\NodeChains\obj\x86\Debug\NodeChains.csprojResolveAssemblyReference.cache
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\NodeChains\obj\x86\Debug\NodeChains.exe
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\NodeChains\obj\x86\Debug\NodeChains.pdb

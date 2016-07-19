@@ -1,0 +1,4 @@
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\DoublyLinkedList\bin\Debug\DoublyLinkedList.dll
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\DoublyLinkedList\obj\Debug\DoublyLinkedList.dll
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

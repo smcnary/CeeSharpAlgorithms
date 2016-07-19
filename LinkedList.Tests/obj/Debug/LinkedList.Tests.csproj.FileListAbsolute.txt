@@ -1,0 +1,11 @@
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList.Tests\bin\Debug\LinkedList.Tests.dll
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList.Tests\bin\Debug\LinkedList.Tests.pdb
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList.Tests\bin\Debug\DoublyLinkedList.dll
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList.Tests\bin\Debug\LinkedList.dll
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList.Tests\bin\Debug\nunit.framework.dll
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList.Tests\bin\Debug\LinkedList.pdb
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList.Tests\bin\Debug\nunit.framework.xml
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList.Tests\obj\Debug\LinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList.Tests\obj\Debug\LinkedList.Tests.dll
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList.Tests\obj\Debug\LinkedList.Tests.pdb

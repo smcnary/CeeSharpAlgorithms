@@ -1,0 +1,5 @@
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList\bin\Debug\LinkedList.dll
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList\obj\Debug\LinkedList.dll
+C:\Users\smcna\Documents\Algorithms\materials\LinkedLists\LinkedList\obj\Debug\LinkedList.pdb
